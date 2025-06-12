@@ -28,6 +28,9 @@ function nigga(){
 
 function c(){
     console.log("c branch was added")
+    console.log("d branch was added")
+    console.log("e branch was added")
+    console.log("f branch was added")
         
 
 
