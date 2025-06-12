@@ -11,4 +11,7 @@ console.log("i am new")
 
 function akshay(){
     console.log("akshay branch was added")
+        console.log("dhiman  was added")
+
+
 }
