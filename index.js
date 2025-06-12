@@ -5,3 +5,10 @@ const dob="7/3//2005"
 function newF(){
 console.log("i am new")
 } 
+
+
+
+
+function akshay(){
+    console.log("akshay branch was added")
+}
