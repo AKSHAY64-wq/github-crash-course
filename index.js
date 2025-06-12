@@ -1,5 +1,5 @@
 const age=24;
- const name="akki"
+ const name="akki new"
 const dob="7/3//2005"
 
 function newF(){
