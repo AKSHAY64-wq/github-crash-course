@@ -31,6 +31,7 @@ function c(){
     console.log("d branch was added")
     console.log("e branch was added")
     console.log("f branch was added")
+    console.log("akki")
         
 
 
